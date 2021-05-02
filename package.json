@@ -1,0 +1,23 @@
+{
+  "name": "language-guesser",
+  "version": "1.0.0",
+  "description": "Exercise using Franc and Langs to make a language guesser (project for the web-development-bootcamp)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lupo-Albi/language-guesser.git"
+  },
+  "author": "Lupo Albi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lupo-Albi/language-guesser/issues"
+  },
+  "homepage": "https://github.com/Lupo-Albi/language-guesser#readme",
+  "dependencies": {
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
